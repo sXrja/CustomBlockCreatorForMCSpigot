@@ -34,8 +34,13 @@ The Plugin works with waterlogged double slaps cause its not possible to get the
 To get these Custom Block into your inventory use the command: /customblocks. There are all Blocks listed that you put into the settings File!
 The Blocks are Displayed as bat_spawn_egg's. To see the Block just Place the Egg somewhere on the ground.
 
-##Known Issues:
-
+## Known Issues:
 - when placing the bat_spawn_egg into water it will spawn an bat with current Block name
 
+## Permissions:
+```
+Use the /customblocks command: bcb.usemenu
+```
+
+Updating it soon! 
 Wanna learn more? check out my youtube: https://youtube.com/@sxrja
