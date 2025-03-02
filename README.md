@@ -31,4 +31,11 @@ In the Template Pack you can create your own Blocks and just add these in the se
 The Plugin works with waterlogged double slaps cause its not possible to get them the normal way!
 ### ITS NOT REPLACING ANY OF THE VANILLA BLOCKS!!!
 
+To get these Custom Block into your inventory use the command: /customblocks. There are all Blocks listed that you put into the settings File!
+The Blocks are Displayed as bat_spawn_egg's. To see the Block just Place the Egg somewhere on the ground.
+
+##Known Issues:
+
+- when placing the bat_spawn_egg into water it will spawn an bat with current Block name
+
 Wanna learn more? check out my youtube: https://youtube.com/@sxrja
